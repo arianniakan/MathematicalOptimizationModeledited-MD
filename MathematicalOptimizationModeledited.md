@@ -17,9 +17,7 @@ made up of three key features:
 goals you are aiming to achieve.
 
 ![Diagram Description automatically
-generated](.//media/image1.png){width="5.079014654418198in"
-height="3.591666666666667in"}
-
+generated](.//media/image1.png)
 To give you an example that is particularly relevant today, a hospital
 network which has a business problem such as equipment and facility
 capacity planning during the Covid-19 pandemic could create a model that
@@ -74,8 +72,7 @@ With up-to-date data and a solver, a mathematical optimization model
 becomes much more than merely a representation of your business problem;
 it becomes an integral part of the solution to that problem.
 
-![](.//media/image2.jpg){width="3.188888888888889in"
-height="2.1902777777777778in"}Combining these three elements (your
+![](.//media/image2.jpg)Combining these three elements (your
 model, your data and a solver) in a mathematical optimization
 application gives you the power to:
 
@@ -83,8 +80,7 @@ application gives you the power to:
 and gain a deep understanding of the dynamics and disruptions present in
 your business landscape.
 
-![](.//media/image3.jpeg){width="4.591666666666667in"
-height="3.05in"}**•** **Analyse**: Explore various scenarios and gauge
+![](.//media/image3.jpeg)**•** **Analyse**: Explore various scenarios and gauge
 their potential impact on your business so you can identify risks and
 opportunities.
 
@@ -151,9 +147,7 @@ region can be expressed in terms of the function value at the corners.
 **we only need to look at the corners!**
 
 ![Graphical user interface Description automatically
-generated](.//media/image4.png){width="4.166666666666667in"
-height="3.2668886701662294in"}
-
+generated](.//media/image4.png)
 So optimum is at point B, where red
 
 and blue constraints meet.
