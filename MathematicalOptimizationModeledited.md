@@ -108,7 +108,7 @@ talks about the relationship between multiple variables with degree one.
 The word "programming" on the other hand, talks about the process of
 selecting the best solution from different alternatives.
 
-**An example of linear programming[:]{dir="rtl"}**
+**An example of linear programming**
 
 Suppose a smaller decorating shop has:
 
